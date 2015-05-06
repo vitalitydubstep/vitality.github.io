@@ -1,0 +1,63 @@
+.body {
+	font-family: arial;
+	background-color: black;
+	color: white;
+}
+
+table.vm {
+	font-size: 50px;
+	margin-top: 0;
+}
+
+p.center {
+	text-align: center;
+}
+
+h2.underline {
+	text-align: center;
+	font-size: 60px;
+	font-family: courier new;
+	text-decoration: underline;
+	text-shadow: 0px 0px 15px #C2C2C2;
+}
+
+.padding {
+	margin: 20px
+}
+
+#floatleft {
+	float: left;
+}
+
+#floatright {
+	float: right;
+}
+
+#head {
+	background-color: #444444;
+}
+
+a:link {
+    text-decoration: none;
+	color: #FFFFFF;
+}
+
+a:visited {
+    text-decoration: none;
+	color: #FFFFFF;
+}
+
+a:hover {
+	color: #C2C2C2;
+	text-shadow: 0px 0px 5px #fff;
+}
+
+a:hover.email {
+	color: #00FFFF;
+	text-shadow: 0px 0px 0px #fff;
+}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+}
